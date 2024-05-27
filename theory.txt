@@ -1,0 +1,51 @@
+*servers are the software which serves data
+
+
+
+*backend development
+*2 major component 
+
+a programing language---java,js,php,c++,golang
+there are some libraries, functions and frameworks(react) available  through which we can do development
+
+a database---mongodb,my sql,sqlite,postgres
+tere are also some libraries and frameworks of database such as ORM and ODM , PRISMA ,MONGOOSE
+
+
+*now user request for query  from data base , the request is made from front end side , there are many functions of a frontend , the request from any particular individual goes to server  ---> we create backend which convert the query requested by user in many formats json etc. , we write code for one backend and can be executed in many formats ---> compare or evaluate the functions in database , database is in another continent ---> reply is sent in the form of api , an api is form return value of a function which can be in many formats like json ,array,number
+
+
+*express is used for routing
+mongoose is used for database
+
+
+*java script based backend 
+1 data
+2 file
+3 third party (api)
+
+
+*a js runtime : node js /demo/bun
+
+*file structure - package.json      .env    (readmi,git,lint,prittier etc.)
+
+1 index -  database connects to frontend
+2 app - basic configuration,cookies
+3 constants - 
+
+
+database
+models (schema for database , or pattern )
+controllers (functionality of database)
+routers 
+middlewares
+utils
+
+
+
+*firstly we create some front end pages connect them
+*secondly we create some functions in backend and also create a database (these functions help us to work with data entered by user and fetch data from data base)
+these functions help us to deal with servers  (eg. when a person request for some webpage ,data in return he gets reply from the server)
+*how to create a server(a server is nothing but a software which serves data )
+* how to create a api
+
