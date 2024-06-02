@@ -49,3 +49,19 @@ these functions help us to deal with servers  (eg. when a person request for som
 *how to create a server(a server is nothing but a software which serves data )
 * how to create a api
 
+
+
+
+*moon modeling is a tool, for structuring a data
+it is a data modeling tool for mingodb and mysql
+
+eraser is also a platform for cerating / generating data for mongodb and mysql and also provides tool for data modeling
+
+
+1 video -- basics and overview
+2 video -- how to deal with express js(how to aquire node modules,how to work with node js frameworkof js for backend , request and response functions in express js , how to ceate server)
+
+4 video -- work on database , first know about the fields which we want to create
+there are many helper  used to store data -- like prisma and mongoose
+
+codesandbox , github codespaces , stackblitz these provides environment to practice of backend 
